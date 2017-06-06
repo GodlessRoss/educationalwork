@@ -18,7 +18,7 @@ namespace The_program_for_work_with_orders
             InitializeComponent();
         }
 
-        private void textBox1_Click(object sender, EventArgs e)
+        public void textBox1_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
         }

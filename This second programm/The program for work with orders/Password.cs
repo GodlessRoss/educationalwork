@@ -51,5 +51,13 @@ namespace The_program_for_work_with_orders
             textBox1.ReadOnly = false;
             textBox1.PasswordChar = '*';
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Login log = new Login();
+            log.Show();
+            this.Hide();
+
+        }
     }
 }

@@ -18,3 +18,7 @@ C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program
 C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The program for work with orders.pdb
 C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The_program_for_work_with_orders.Login.resources
 C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The_program_for_work_with_orders.Password.resources
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The_program_for_work_with_orders.OrderSer.resources
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The_program_for_work_with_orders.Support.resources
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The_program_for_work_with_orders.Manager.resources
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\bin\Debug\Orders.mdb
