@@ -10,3 +10,8 @@ C:\Users\atama\Documents\Projects\Demo\Demo\bin\Debug\normnfkd.nlp
 C:\Users\atama\Documents\Projects\Demo\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
 C:\Users\atama\Documents\Projects\Demo\Demo\obj\x86\Debug\Demo.exe
 C:\Users\atama\Documents\Projects\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\Anton\OneDrive\Project\educationalwork\alf\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Anton\OneDrive\Project\educationalwork\alf\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Anton\OneDrive\Project\educationalwork\alf\Demo\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Anton\OneDrive\Project\educationalwork\alf\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\Anton\OneDrive\Project\educationalwork\alf\Demo\Demo\obj\x86\Debug\Demo.pdb
