@@ -8,3 +8,13 @@ C:\Users\Anton\OneDrive\Project\ZakIOb\This second programm\The program for work
 C:\Users\Anton\OneDrive\Project\ZakIOb\This second programm\The program for work with orders\The program for work with orders\obj\Debug\The program for work with orders.exe
 C:\Users\Anton\OneDrive\Project\ZakIOb\This second programm\The program for work with orders\The program for work with orders\obj\Debug\The program for work with orders.pdb
 C:\Users\Anton\OneDrive\Project\ZakIOb\This second programm\The program for work with orders\The program for work with orders\obj\Debug\The_program_for_work_with_orders.Form2.resources
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\bin\Debug\The program for work with orders.exe.config
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\bin\Debug\The program for work with orders.exe
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\bin\Debug\The program for work with orders.pdb
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The program for work with orders.csprojResolveAssemblyReference.cache
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The_program_for_work_with_orders.Properties.Resources.resources
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The program for work with orders.csproj.GenerateResource.Cache
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The program for work with orders.exe
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The program for work with orders.pdb
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The_program_for_work_with_orders.Login.resources
+C:\Users\Anton\OneDrive\Project\educationalwork\This second programm\The program for work with orders\obj\Debug\The_program_for_work_with_orders.Password.resources

@@ -10,22 +10,25 @@ using System.Windows.Forms;
 
 namespace The_program_for_work_with_orders
 {
-    public partial class Form2 : Form
+    public partial class Login : Form
     {
-        public Form2()
+        public static string log;
+        public Login()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void textBox1_Click(object sender, EventArgs e)
         {
-
+            textBox1.Clear();
         }
 
-        private void Form2_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
-            label1.Text = Form1.log;
+            log = textBox1.Text;
+            Password pass = new Password();
+            this.Hide();
+            pass.Show();
         }
     }
 }
